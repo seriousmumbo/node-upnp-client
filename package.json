@@ -9,5 +9,5 @@
   },
   "keywords": ["UPnP", "devices", "client", "library", ""],
   "main": "./lib/upnp",
-  "engines": { "node": ">= 0.2.0" }
+  "engines": { "node": ">= 0.10.28" }
 }
