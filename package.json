@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "author": "Nathan Rajlich <nathan@tootallnate.net>, Pierre Buyle <pierre@buyle.org>",
   "dependencies": {
-    "step": ">= 0.0.3"
+    "step": ">= 0.0.3",
+    "underscore": "*"
   },
   "keywords": ["UPnP", "devices", "client", "library", ""],
   "main": "./lib/upnp",
