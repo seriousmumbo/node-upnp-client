@@ -5,7 +5,8 @@
   "author": "Nathan Rajlich <nathan@tootallnate.net>, Pierre Buyle <pierre@buyle.org>",
   "dependencies": {
     "step": ">= 0.0.3",
-    "underscore": "*"
+    "underscore": "*",
+    "xml2js": "~ 0.4.4"
   },
   "keywords": ["UPnP", "devices", "client", "library", ""],
   "main": "./lib/upnp",
