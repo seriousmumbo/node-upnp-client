@@ -6,6 +6,8 @@
   "dependencies": {
     "step": ">= 0.0.3",
     "underscore": "*",
+    "request": "*",
+    "step": ">= 0.0.3",
     "xml2js": "~ 0.4.4"
   },
   "keywords": ["UPnP", "devices", "client", "library", ""],
